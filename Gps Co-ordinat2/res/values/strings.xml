@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Remote Phone Controller</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="latitude"></string>
+    <string name="longitude"></string>
+    <string name="button1">Update</string>
+    <string name="button2">Stop</string>
+    <string name="medium_text">Longitude</string>
+    <string name="medium_text2">Latitude</string>
+    <string name="button3">Info</string>
+    <string name="textview3">This app helps you to get latitude and longitude of your current place based on GPS sensor. Goto an open place to get the data quickly. You can use GoogleMap to see the place providing the latitude and longitude you got by this app.\nThank You.\n\nMade By\nMuhammad Kamrul Hossain Patwary.\nBangladesh.\nMuhammadKamrulHossain@Gmail.com
+    
+    </string>
+    
+
+</resources>
